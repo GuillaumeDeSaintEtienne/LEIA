@@ -28,7 +28,7 @@ def analyseConv(text):
 
         print(text)
         print(f"Raw logits: {logits}")
-        print(f"Predicted sentiment class: {predicted_class + 1} (1 = worst, 2 = best)")
+        print(f"Predicted sentiment class: {predicted_class + 1} (1 = worst, 5 = best)")
 
     if (predicted_class+1 == 1) : return "negatif" 
     else : return "positif"
