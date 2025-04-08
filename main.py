@@ -14,7 +14,7 @@ fenetre = ttk.Window(themename="cosmo")  # Thème plus doux et moderne
 fenetre.title("Chat LEIA")
 
 # Définition des couleurs
-couleur_fond = "#f5f7fa"  # Fond clair et doux
+couleur_fond = "#150d25"  # Fond clair et doux
 couleur_texte = "#2d3e50"  # Texte foncé mais pas noir
 couleur_accent = "#6c7a89"  # Accent doux/neutre
 
