@@ -167,4 +167,3 @@ label_neg.pack(pady=(0, 5))
 current_conversation = None
 nouvelle_conversation()
 fenetre.mainloop()
-
